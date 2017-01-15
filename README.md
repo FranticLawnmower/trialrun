@@ -1,2 +1,1 @@
-# trialrun
-just a trail run on git and github
+This is Rick's first git project
